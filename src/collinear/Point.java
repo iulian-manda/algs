@@ -1,8 +1,8 @@
-/******************************************************************************
+package collinear; /******************************************************************************
  *  Compilation:  javac collinear.Point.java
  *  Execution:    java collinear.Point
  *  Dependencies: none
- *  
+ *
  *  An immutable data type for points in the plane.
  *  For use on Coursera, Algorithms Part I programming assignment.
  *
@@ -60,7 +60,10 @@ public class Point implements Comparable<Point> {
      * @return the slope between this point and the specified point
      */
     public double slopeTo(Point that) {
-        /* YOUR CODE HERE */
+        if (this.x == that.x && this.y == that.y) return Double.NEGATIVE_INFINITY;
+        if (this.y == that.y) return +0.0D;
+        if (this.x == that.x) return Double.POSITIVE_INFINITY;
+        return ((that.y - this.y) * 1.0D) / ((that.x - this.x) * 1.0D);
     }
 
     /**
@@ -76,7 +79,10 @@ public class Point implements Comparable<Point> {
      *         argument point
      */
     public int compareTo(Point that) {
-        /* YOUR CODE HERE */
+        if (this.y < that.y) return -1;
+        if (this.y == that.y && this.x < that.x) return -1;
+        if (this.y == that.y && this.x == that.x) return 0;
+        return 1;
     }
 
     /**
@@ -86,7 +92,13 @@ public class Point implements Comparable<Point> {
      * @return the Comparator that defines this ordering on points
      */
     public Comparator<Point> slopeOrder() {
-        /* YOUR CODE HERE */
+        return (point1, point2) -> {
+            double slope1 = slopeTo(point1);
+            double slope2 = slopeTo(point2);
+            if (slope1 < slope2) return -1;
+            if (slope1 > slope2) return 1;
+            return 0;
+        };
     }
 
 
@@ -105,7 +117,23 @@ public class Point implements Comparable<Point> {
     /**
      * Unit tests the collinear.Point data type.
      */
-    public static void main(String[] args) {
-        /* YOUR CODE HERE */
-    }
+//    public static void main(String[] args) {
+//        collinear.Point p1 = new collinear.Point(0, 0);
+//        collinear.Point p2 = new collinear.Point(3, 5);
+//        collinear.Point p3 = new collinear.Point(3, 9);
+//        collinear.Point p4 = new collinear.Point(5, 9);
+//        StdOut.println(p1.compareTo(p2));
+//        StdOut.println(p2.compareTo(p3));
+//        StdOut.println(p3.compareTo(p4));
+//        StdOut.println(p1.compareTo(p1));
+//        StdOut.println(p4.compareTo(p3));
+//
+//        StdOut.println(p1.slopeTo(p2));
+//        StdOut.println(p1.slopeTo(p3));
+//        StdOut.println(p1.slopeTo(p4));
+//        StdOut.println(p2.slopeTo(p3));
+//        StdOut.println(p3.slopeTo(p4));
+//        StdOut.println(p2.slopeTo(p4));
+//        StdOut.println(p2.slopeTo(p2));
+//    }
 }
