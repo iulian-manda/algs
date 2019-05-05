@@ -400,9 +400,9 @@
         <BugPattern name="FCCD_FIND_CLASS_CIRCULAR_DEPENDENCY" />
     </Match>
 
-    <!-- BoggleBoard doesn't implement hashCode() or equals() and does safe test for floating-point equality -->
+    <!-- boggle.BoggleBoard doesn't implement hashCode() or equals() and does safe test for floating-point equality -->
     <Match>
-        <Class name = "~(BoggleBoard)(226)?" />
+        <Class name = "~(boggle.BoggleBoard)(226)?" />
         <BugPattern name="FE_FLOATING_POINT_EQUALITY,HE_HASHCODE_USE_OBJECT_EQUALS" />
     </Match>
 
