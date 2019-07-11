@@ -2,63 +2,40 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="358016b8-8a08-45a8-8bfb-58390194fc28" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/resources/burrows/.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/burrows/.idea/checkstyle-idea.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/burrows/.idea/codeInsightSettings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/burrows/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/burrows/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/burrows/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/burrows/.idea/externalDependencies.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/burrows/.idea/file.template.settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/burrows/.idea/fileTemplates/includes/File Header.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/burrows/.idea/fileTemplates/internal/AnnotationType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/burrows/.idea/fileTemplates/internal/Class.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/burrows/.idea/fileTemplates/internal/Enum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/burrows/.idea/fileTemplates/internal/Interface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/burrows/.idea/fileTemplates/internal/module-info.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/burrows/.idea/fileTemplates/internal/package-info.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/burrows/.idea/findbugs-idea.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/burrows/.idea/inspectionProfiles/Algorithms__Part_I.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/burrows/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/burrows/.idea/libraries/algs4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/burrows/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/burrows/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/burrows/.idea/saveactions_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/burrows/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/burrows/.lift/algs4.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/burrows/.lift/checkstyle-coursera.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/burrows/.lift/checkstyle-lift.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/burrows/.lift/checkstyle-suppressions.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/burrows/.lift/spotbugs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/burrows/Algorithms, Part II.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/burrows/CS_bricks.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/burrows/a.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/burrows/abra.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/burrows/abra.txt.bwt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/burrows/abra.txt.bwt.mtf.huf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/burrows/abra.txt.huf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/burrows/abra.txt.mtf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/burrows/aesop.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/burrows/aesop.txt.bwt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/burrows/aesop.txt.bwt.mtf.huf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/burrows/aesop.txt.huf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/burrows/aesop.txt.mtf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/burrows/alphanum.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/burrows/amendments.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/burrows/cadabra.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/burrows/couscous.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/burrows/encodedSecretMessage.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/burrows/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/burrows/purple.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/burrows/rand10K.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/burrows/stars.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/burrows/us.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/burrows/us.gif.bwt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/burrows/us.gif.bwt.mtf.huf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/burrows/us.gif.huf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/burrows/us.gif.mtf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/burrows/zebra.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MoveToFront.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/ctci/medium/problem2/the_white_flag.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cracking/the/coding/interview/arrays/and/strings/Problem1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cracking/the/coding/interview/arrays/and/strings/Problem2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cracking/the/coding/interview/arrays/and/strings/Problem3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cracking/the/coding/interview/arrays/and/strings/Problem4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cracking/the/coding/interview/arrays/and/strings/Problem5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cracking/the/coding/interview/arrays/and/strings/Problem6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cracking/the/coding/interview/arrays/and/strings/Problem7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cracking/the/coding/interview/arrays/and/strings/Problem8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cracking/the/coding/interview/bit/manipulation/Problem1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cracking/the/coding/interview/bit/manipulation/Problem6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cracking/the/coding/interview/hard/Problems1to3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cracking/the/coding/interview/java/Country.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cracking/the/coding/interview/java/Problem7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cracking/the/coding/interview/java/Problem8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cracking/the/coding/interview/moderate/Problem1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cracking/the/coding/interview/moderate/Problem2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cracking/the/coding/interview/moderate/Problem3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cracking/the/coding/interview/moderate/Problem4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cracking/the/coding/interview/moderate/Problem5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cracking/the/coding/interview/moderate/Problem6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cracking/the/coding/interview/moderate/Problem7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cracking/the/coding/interview/recursion/and/dynamic/programming/Problem1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cracking/the/coding/interview/recursion/and/dynamic/programming/Problem2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cracking/the/coding/interview/recursion/and/dynamic/programming/Problem3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cracking/the/coding/interview/searching/and/sorting/Problem1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cracking/the/coding/interview/trees/and/graphs/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cracking/the/coding/interview/trees/and/graphs/Problem3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cracking/the/coding/interview/trees/and/graphs/Problem4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cracking/the/coding/interview/trees/and/graphs/Problem5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/misc/GoogleZurichInterviewQuestion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algs/BurrowsWheeler.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algs/BurrowsWheeler.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algs/CircularSuffixArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algs/CircularSuffixArray.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="resources/8puzzle/.idea/.name" />
@@ -112,66 +89,16 @@
   <component name="DefaultGradleProjectSettings">
     <option name="isMigrated" value="true" />
   </component>
-  <component name="FUSProjectUsageTrigger">
-    <session id="-1992687728">
-      <usages-collector id="statistics.lifecycle.project">
-        <counts>
-          <entry key="project.closed" value="3" />
-          <entry key="project.open.time.2" value="1" />
-          <entry key="project.open.time.6" value="1" />
-          <entry key="project.open.time.8" value="1" />
-          <entry key="project.opened" value="3" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.open">
-        <counts>
-          <entry key="class" value="1" />
-          <entry key="java" value="20" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.open">
-        <counts>
-          <entry key="CLASS" value="1" />
-          <entry key="JAVA" value="20" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.edit">
-        <counts>
-          <entry key="java" value="3059" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.edit">
-        <counts>
-          <entry key="JAVA" value="3059" />
-        </counts>
-      </usages-collector>
-    </session>
-  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/MoveToFront.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/CircularSuffixArray.java">
+        <entry file="file://$PROJECT_DIR$/src/cracking/the/coding/interview/hard/Problems1to3.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="151">
-              <caret line="17" column="25" lean-forward="true" selection-start-line="17" selection-start-column="25" selection-end-line="17" selection-end-column="25" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/BurrowsWheeler.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="322">
-              <caret line="49" column="26" selection-start-line="49" selection-start-column="26" selection-end-line="49" selection-end-column="26" />
+            <state relative-caret-position="555">
+              <caret line="37" column="1" selection-start-line="37" selection-start-column="1" selection-end-line="37" selection-end-column="1" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -201,7 +128,6 @@
       <find>keys</find>
       <find>MAX_VA</find>
       <find>energy</find>
-      <find>equals</find>
       <find>String</find>
       <find>contains</find>
       <find>prefix</find>
@@ -217,12 +143,16 @@
       <find>1</find>
       <find>0</find>
       <find>=</find>
+      <find>equals</find>
     </findStrings>
     <replaceStrings>
       <replace>for (</replace>
       <replace>int</replace>
       <replace>next\(</replace>
     </replaceStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/src/cracking/the/coding/interview</dir>
+    </dirStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -230,24 +160,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/resources/collinear/input6.txt" />
-        <option value="$PROJECT_DIR$/resources/collinear/input10.txt" />
-        <option value="$PROJECT_DIR$/src/BruteCollinearPoints.java" />
-        <option value="$PROJECT_DIR$/src/Point.java" />
-        <option value="$PROJECT_DIR$/src/FastCollinearPoints.java" />
-        <option value="$PROJECT_DIR$/src/collinear/FastCollinearPoints.java" />
-        <option value="$PROJECT_DIR$/src/permutation/RandomizedQueue.java" />
-        <option value="$PROJECT_DIR$/resources/8puzzle/puzzle27.txt" />
-        <option value="$PROJECT_DIR$/src/Solver.java" />
-        <option value="$PROJECT_DIR$/src/Board.java" />
-        <option value="$APPLICATION_CONFIG_DIR$/idea.vmoptions" />
-        <option value="$PROJECT_DIR$/src/RangeSearchVisualizer.java" />
-        <option value="$PROJECT_DIR$/src/NearestNeighborVisualizer.java" />
-        <option value="$PROJECT_DIR$/src/PointSET.java" />
-        <option value="$PROJECT_DIR$/resources/kdtree/test.txt" />
-        <option value="$PROJECT_DIR$/src/KdTree.java" />
-        <option value="$PROJECT_DIR$/src/kdtree/NearestNeighborVisualizer.java" />
-        <option value="$PROJECT_DIR$/src/misc/OlympicAthlete.java" />
         <option value="$PROJECT_DIR$/src/misc/CountTriplets.java" />
         <option value="$PROJECT_DIR$/src/misc/GoogleInterviewQuestion.java" />
         <option value="$PROJECT_DIR$/src/misc/DiGraph.java" />
@@ -268,6 +180,37 @@
         <option value="$PROJECT_DIR$/src/MoveToFront.java" />
         <option value="$PROJECT_DIR$/src/BurrowsWheeler.java" />
         <option value="$PROJECT_DIR$/src/CircularSuffixArray.java" />
+        <option value="$PROJECT_DIR$/src/cracking/the/coding/interview/arrays/and/strings/Problem1.java" />
+        <option value="$PROJECT_DIR$/src/cracking/the/coding/interview/arrays/and/strings/Problem3.java" />
+        <option value="$PROJECT_DIR$/src/cracking/the/coding/interview/arrays/and/strings/Problem4.java" />
+        <option value="$PROJECT_DIR$/src/cracking/the/coding/interview/arrays/and/strings/Problem5.java" />
+        <option value="$PROJECT_DIR$/src/cracking/the/coding/interview/arrays/and/strings/Problem6.java" />
+        <option value="$PROJECT_DIR$/src/cracking/the/coding/interview/arrays/and/strings/Problem7.java" />
+        <option value="$PROJECT_DIR$/src/cracking/the/coding/interview/arrays/and/strings/Problem8.java" />
+        <option value="$PROJECT_DIR$/src/cracking/the/coding/interview/trees/and/graphs/Node.java" />
+        <option value="$PROJECT_DIR$/src/cracking/the/coding/interview/trees/and/graphs/Problem3.java" />
+        <option value="$PROJECT_DIR$/src/cracking/the/coding/interview/trees/and/graphs/Problem4.java" />
+        <option value="$PROJECT_DIR$/src/cracking/the/coding/interview/trees/and/graphs/Problem5.java" />
+        <option value="$PROJECT_DIR$/src/cracking/the/coding/interview/bit/manipulation/Problem1.java" />
+        <option value="$PROJECT_DIR$/src/cracking/the/coding/interview/bit/manipulation/Problem6.java" />
+        <option value="$PROJECT_DIR$/src/cracking/the/coding/interview/recursion/and/dynamic/programming/Problem1.java" />
+        <option value="$PROJECT_DIR$/src/cracking/the/coding/interview/recursion/and/dynamic/programming/Problem2.java" />
+        <option value="$PROJECT_DIR$/src/cracking/the/coding/interview/recursion/and/dynamic/programming/Problem3.java" />
+        <option value="$PROJECT_DIR$/src/cracking/the/coding/interview/searching/and/sorting/Problem1.java" />
+        <option value="$PROJECT_DIR$/src/cracking/the/coding/interview/java/Country.java" />
+        <option value="$PROJECT_DIR$/src/cracking/the/coding/interview/java/Problem7.java" />
+        <option value="$PROJECT_DIR$/src/cracking/the/coding/interview/java/Problem8.java" />
+        <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch.txt" />
+        <option value="$PROJECT_DIR$/src/cracking/the/coding/interview/moderate/Problem1.java" />
+        <option value="$PROJECT_DIR$/resources/ctci/medium/problem2/the_white_flag.txt" />
+        <option value="$PROJECT_DIR$/src/cracking/the/coding/interview/moderate/Problem2.java" />
+        <option value="$PROJECT_DIR$/src/cracking/the/coding/interview/moderate/Problem3.java" />
+        <option value="$PROJECT_DIR$/src/cracking/the/coding/interview/moderate/Problem4.java" />
+        <option value="$PROJECT_DIR$/src/cracking/the/coding/interview/moderate/Problem5.java" />
+        <option value="$PROJECT_DIR$/src/cracking/the/coding/interview/moderate/Problem6.java" />
+        <option value="$PROJECT_DIR$/src/cracking/the/coding/interview/moderate/Problem7.java" />
+        <option value="$PROJECT_DIR$/src/misc/GoogleZurichInterviewQuestion.java" />
+        <option value="$PROJECT_DIR$/src/cracking/the/coding/interview/hard/Problems1to3.java" />
       </list>
     </option>
   </component>
@@ -293,48 +236,83 @@
             <path>
               <item name="algs" type="b2602c69:ProjectViewProjectNode" />
               <item name="algs" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="algs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algs" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="ctci" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="algs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algs" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="ctci" type="462c0819:PsiDirectoryNode" />
+              <item name="medium" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="algs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algs" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="ctci" type="462c0819:PsiDirectoryNode" />
+              <item name="medium" type="462c0819:PsiDirectoryNode" />
+              <item name="problem2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="algs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algs" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="algs" type="b2602c69:ProjectViewProjectNode" />
               <item name="algs" type="462c0819:PsiDirectoryNode" />
-              <item name="libs" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="interview" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="algs" type="b2602c69:ProjectViewProjectNode" />
               <item name="algs" type="462c0819:PsiDirectoryNode" />
-              <item name="libs" type="462c0819:PsiDirectoryNode" />
-              <item name="algs4.jar" type="ab9368bb:PsiFileNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="interview" type="462c0819:PsiDirectoryNode" />
+              <item name="hard" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="algs" type="b2602c69:ProjectViewProjectNode" />
               <item name="algs" type="462c0819:PsiDirectoryNode" />
-              <item name="libs" type="462c0819:PsiDirectoryNode" />
-              <item name="algs4.jar" type="ab9368bb:PsiFileNode" />
-              <item name="algs4" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="misc" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="algs" type="b2602c69:ProjectViewProjectNode" />
               <item name="algs" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="percolation" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="algs" type="b2602c69:ProjectViewProjectNode" />
               <item name="algs" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="burrows" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="permutation" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="algs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algs" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="puzzle" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1555178636749" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="TEXT&#10;JAVA" />
     <property name="extract.method.default.visibility" value="private" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Project" />
@@ -344,16 +322,17 @@
     <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Java" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="cracking.the.coding.interview.arrays.and.strings" />
+      <recent name="" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src" />
       <recent name="$PROJECT_DIR$/src/seam" />
       <recent name="$PROJECT_DIR$/resources/wordnet" />
-    </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -368,42 +347,18 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.BurrowsWheeler">
-    <configuration name="BoggleSolver" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="boggle.BoggleSolver" />
-      <module name="algs" />
-      <option name="PROGRAM_PARAMETERS" value="resources/boggle/dictionary-16q.txt resources/boggle/board-16q.txt" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="BurrowsWheeler" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BurrowsWheeler" />
-      <module name="algs" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CircularSuffixArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CircularSuffixArray" />
-      <module name="algs" />
-      <option name="PROGRAM_PARAMETERS" value="resources/burrows/aesop.txt" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="HexDump" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="edu.princeton.cs.algs4.HexDump" />
+  <component name="RunManager" selected="Application.GoogleZurichInterviewQuestion">
+    <configuration name="GoogleZurichInterviewQuestion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="misc.GoogleZurichInterviewQuestion" />
       <module name="algs" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="edu.princeton.cs.algs4.*" />
+          <option name="PATTERN" value="misc.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <method v="2">
         <option name="Make" enabled="true" />
-        <option name="RunConfigurationTask" enabled="true" run_configuration_name="MoveToFront" run_configuration_type="Application" />
       </method>
     </configuration>
     <configuration name="MoveToFront" type="Application" factoryName="Application" nameIsGenerated="true">
@@ -414,29 +369,73 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PrintSeams" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PrintSeams" />
+    <configuration name="Problem3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cracking.the.coding.interview.moderate.Problem3" />
       <module name="algs" />
-      <option name="PROGRAM_PARAMETERS" value="resources/seam/diagonals.png" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cracking.the.coding.interview.moderate.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Problem5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cracking.the.coding.interview.moderate.Problem5" />
+      <module name="algs" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cracking.the.coding.interview.moderate.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Problem6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cracking.the.coding.interview.moderate.Problem6" />
+      <module name="algs" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cracking.the.coding.interview.moderate.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Problem7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cracking.the.coding.interview.moderate.Problem7" />
+      <module name="algs" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cracking.the.coding.interview.moderate.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
       <item itemvalue="Application.MoveToFront" />
-      <item itemvalue="Application.PrintSeams" />
-      <item itemvalue="Application.BoggleSolver" />
-      <item itemvalue="Application.HexDump" />
-      <item itemvalue="Application.CircularSuffixArray" />
-      <item itemvalue="Application.BurrowsWheeler" />
+      <item itemvalue="Application.Problem3" />
+      <item itemvalue="Application.Problem5" />
+      <item itemvalue="Application.Problem6" />
+      <item itemvalue="Application.Problem7" />
+      <item itemvalue="Application.GoogleZurichInterviewQuestion" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.BurrowsWheeler" />
-        <item itemvalue="Application.CircularSuffixArray" />
-        <item itemvalue="Application.HexDump" />
-        <item itemvalue="Application.BoggleSolver" />
-        <item itemvalue="Application.PrintSeams" />
+        <item itemvalue="Application.GoogleZurichInterviewQuestion" />
+        <item itemvalue="Application.Problem7" />
+        <item itemvalue="Application.Problem6" />
+        <item itemvalue="Application.Problem5" />
+        <item itemvalue="Application.Problem3" />
       </list>
     </recent_temporary>
   </component>
@@ -516,7 +515,7 @@
     <frame x="0" y="23" width="1440" height="813" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26805556" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.32904148" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -530,11 +529,11 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49928468" weight="0.32871014" />
-      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49642345" weight="0.35194805" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49642345" weight="0.3509015" />
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5078684" side_tool="true" weight="0.32871014" />
       <window_info anchor="bottom" id="Version Control" order="9" sideWeight="0.49642345" weight="0.32871014" />
-      <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.49928468" weight="0.32857144" />
-      <window_info anchor="bottom" id="Run" order="11" sideWeight="0.49213162" weight="0.26623377" />
+      <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.49928468" weight="0.32732317" />
+      <window_info anchor="bottom" id="Run" order="11" sideWeight="0.49213162" weight="0.2635229" />
       <window_info anchor="bottom" id="Dependency Viewer" order="12" weight="0.32871014" />
       <window_info anchor="bottom" id="FindBugs-IDEA" order="13" />
       <window_info anchor="bottom" id="CheckStyle" order="14" />
@@ -573,9 +572,20 @@
         </entry>
       </map>
     </option>
-  </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initial commit" />
@@ -666,203 +676,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/resources/boggle/.idea/fileTemplates/internal/Class.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/boggle/.idea/fileTemplates/includes/File Header.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/boggle/.idea/file.template.settings.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/boggle/board-quinquevalencies.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/boggle/.idea/fileTemplates/internal/AnnotationType.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/libs/algs4.jar!/edu/princeton/cs/algs4/BreadthFirstDirectedPaths.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="248">
-          <caret line="87" column="11" selection-start-line="87" selection-start-column="8" selection-end-line="87" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/boggle/board-points0.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/boggle/board-points1.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/boggle/board-points100.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/boggle/board-16q.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/boggle/board4x4.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/boggle/dictionary-algs4.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-53" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/boggle/board-noon.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/boggle/board-dodo.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/libs/algs4.jar!/edu/princeton/cs/algs4/TrieST.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="62" column="6" lean-forward="true" selection-end-line="333" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/libs/algs4.jar!/edu/princeton/cs/algs4/DepthFirstDirectedPaths.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="211">
-          <caret line="70" selection-start-line="70" selection-end-line="70" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/boggle/dictionary-yawl.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="6" column="5" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/libs/algs4.jar!/edu/princeton/cs/algs4/DepthFirstSearch.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="159">
-          <caret line="63" column="29" lean-forward="true" selection-start-line="63" selection-start-column="29" selection-end-line="63" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-11.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/lang/AbstractStringBuilder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="55" column="15" selection-start-line="55" selection-start-column="15" selection-end-line="55" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-11.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/lang/StringBuilder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="113">
-          <caret line="445" column="18" selection-start-line="445" selection-start-column="18" selection-end-line="445" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-11.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/Set.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1335">
-          <caret line="112" column="17" selection-start-line="112" selection-start-column="17" selection-end-line="112" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/boggle/BoggleBoard.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/boggle/BoggleGame.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-7">
-          <caret line="50" column="13" selection-start-line="50" selection-start-column="13" selection-end-line="50" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/boggle/BoggleSolver.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/boggle/TrieST.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="51" column="13" selection-start-line="51" selection-start-column="13" selection-end-line="51" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/boggle/board-points4.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/out/production/algs/MoveToFront.class">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-11.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/io/OutputStream.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="152" column="16" selection-start-line="152" selection-start-column="16" selection-end-line="152" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-11.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/io/BufferedOutputStream.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="80" column="17" lean-forward="true" selection-start-line="80" selection-start-column="17" selection-end-line="80" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/libs/algs4.jar!/edu/princeton/cs/algs4/HexDump.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="104">
-          <caret line="59" column="8" selection-start-line="59" selection-start-column="8" selection-end-line="77" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/burrows/abra.txt.bwt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/burrows/abra.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="12" lean-forward="true" selection-start-column="12" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/burrows/aesop.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-58168" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/burrows/cadabra.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/MoveToFront.class">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/libs/algs4.jar!/edu/princeton/cs/algs4/TST.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-191">
-          <caret line="75" column="11" selection-start-line="75" selection-start-column="11" selection-end-line="75" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-11.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/lang/StringLatin1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-9">
-          <caret line="62" lean-forward="true" selection-start-line="62" selection-end-line="62" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/burrows/alphanum.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/burrows/amendments.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/resources/burrows/couscous.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -922,24 +735,310 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/MoveToFront.java">
+    <entry file="file://$PROJECT_DIR$/src/MoveToFront.java" />
+    <entry file="file://$PROJECT_DIR$/src/BurrowsWheeler.java" />
+    <entry file="file://$PROJECT_DIR$/src/CircularSuffixArray.java" />
+    <entry file="file://$PROJECT_DIR$/src/boggle/BoggleGame.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        <state relative-caret-position="153">
+          <caret line="895" column="104" selection-start-line="895" selection-start-column="104" selection-end-line="895" selection-end-column="104" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/BurrowsWheeler.java">
+    <entry file="file://$PROJECT_DIR$/src/cracking/the/coding/interview/arrays/and/strings/Problem4.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="322">
-          <caret line="49" column="26" selection-start-line="49" selection-start-column="26" selection-end-line="49" selection-end-column="26" />
+        <state relative-caret-position="390">
+          <caret line="26" column="1" selection-start-line="26" selection-start-column="1" selection-end-line="26" selection-end-column="1" />
+          <folding>
+            <element signature="e#580#581#0" expanded="true" />
+            <element signature="e#643#644#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/CircularSuffixArray.java">
+    <entry file="file://$PROJECT_DIR$/src/cracking/the/coding/interview/arrays/and/strings/Problem1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="151">
-          <caret line="17" column="25" lean-forward="true" selection-start-line="17" selection-start-column="25" selection-end-line="17" selection-end-column="25" />
+        <state relative-caret-position="390">
+          <caret line="26" column="5" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cracking/the/coding/interview/arrays/and/strings/Problem3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="27" lean-forward="true" selection-start-line="19" selection-start-column="27" selection-end-line="19" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-11.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/lang/StringBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="110" column="11" selection-start-line="110" selection-start-column="11" selection-end-line="110" selection-end-column="11" />
+          <folding>
+            <element signature="e#3886#3887#0" expanded="true" />
+            <element signature="e#3917#3918#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cracking/the/coding/interview/arrays/and/strings/Problem5.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="21" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cracking/the/coding/interview/arrays/and/strings/Problem6.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="5" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cracking/the/coding/interview/arrays/and/strings/Problem7.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" column="8" selection-start-line="24" selection-start-column="8" selection-end-line="28" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cracking/the/coding/interview/arrays/and/strings/Problem8.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="389">
+          <caret line="60" column="9" selection-start-line="60" selection-start-column="9" selection-end-line="60" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cracking/the/coding/interview/trees/and/graphs/Problem3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cracking/the/coding/interview/trees/and/graphs/Problem4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="17" column="8" selection-start-line="17" selection-start-column="8" selection-end-line="26" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cracking/the/coding/interview/trees/and/graphs/Problem5.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="18" column="41" selection-start-line="18" selection-start-column="41" selection-end-line="18" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cracking/the/coding/interview/bit/manipulation/Problem1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cracking/the/coding/interview/bit/manipulation/Problem6.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="5" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cracking/the/coding/interview/recursion/and/dynamic/programming/Problem1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cracking/the/coding/interview/recursion/and/dynamic/programming/Problem2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="18" selection-start-line="18" selection-end-line="51" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1530#1531#0" expanded="true" />
+            <element signature="e#1577#1578#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cracking/the/coding/interview/trees/and/graphs/Node.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="8" column="5" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cracking/the/coding/interview/recursion/and/dynamic/programming/Problem3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cracking/the/coding/interview/searching/and/sorting/Problem1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cracking/the/coding/interview/java/Problem7.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cracking/the/coding/interview/java/Country.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="18" column="1" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cracking/the/coding/interview/java/Problem8.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="20" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#428#429#0" expanded="true" />
+            <element signature="e#481#482#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.java" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.txt" />
+    <entry file="file://$PROJECT_DIR$/resources/ctci/medium/problem2/the_white_flag.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="13350" selection-start-line="13350" selection-end-line="13350" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/puzzle/Solver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="139">
+          <caret line="126" column="32" lean-forward="true" selection-start-line="126" selection-start-column="32" selection-end-line="126" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/permutation/Permutation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cracking/the/coding/interview/moderate/Problem2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="212">
+          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cracking/the/coding/interview/moderate/Problem1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="5" lean-forward="true" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/percolation/Percolation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="394">
+          <caret line="122" lean-forward="true" selection-start-line="122" selection-end-line="122" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-11.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/lang/Object.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-892">
+          <caret line="90" column="58" selection-start-line="90" selection-start-column="52" selection-end-line="90" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cracking/the/coding/interview/moderate/Problem3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="56" column="33" selection-start-line="56" selection-start-column="33" selection-end-line="56" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cracking/the/coding/interview/moderate/Problem4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="720">
+          <caret line="52" column="9" selection-start-line="52" selection-start-column="9" selection-end-line="52" selection-end-column="9" />
+          <folding>
+            <element signature="e#932#933#0" expanded="true" />
+            <element signature="e#991#992#0" expanded="true" />
+            <element signature="e#1022#1023#0" expanded="true" />
+            <element signature="e#1052#1053#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cracking/the/coding/interview/moderate/Problem5.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="26" column="1" selection-start-line="26" selection-start-column="1" selection-end-line="26" selection-end-column="1" />
+          <folding>
+            <element signature="e#615#616#0" expanded="true" />
+            <element signature="e#669#670#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cracking/the/coding/interview/moderate/Problem6.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="27" column="5" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cracking/the/coding/interview/moderate/Problem7.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="11" column="5" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-11.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/Map.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="14550">
+          <caret line="996" column="14" selection-start-line="996" selection-start-column="14" selection-end-line="996" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/misc/GoogleZurichInterviewQuestion.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="404">
+          <caret line="55" column="1" selection-start-line="11" selection-end-line="55" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cracking/the/coding/interview/hard/Problems1to3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="555">
+          <caret line="37" column="1" selection-start-line="37" selection-start-column="1" selection-end-line="37" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
